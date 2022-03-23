@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029355961954",
+    "project_id": "cryptopriceprediction-9a36f",
+    "storage_bucket": "cryptopriceprediction-9a36f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029355961954:android:c3f94f038f8b2d2d019b3b",
+        "android_client_info": {
+          "package_name": "com.example.cryptopriceprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029355961954-g4uit8vr3brnblob2kj1ssjfp9usqeus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMHgK0R9YpPG7lsM3S_waYN7zghQDCOtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029355961954-g4uit8vr3brnblob2kj1ssjfp9usqeus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

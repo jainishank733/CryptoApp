@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CryptoPriceApp</string>
+    <string name="backdrop_title">CryptoPriceApp</string>
+    <string name="menu_option_button">menu</string>
+</resources>
