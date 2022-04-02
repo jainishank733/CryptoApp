@@ -20,6 +20,10 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 
+import com.example.cryptopriceprediction.Currency;
+import com.example.cryptopriceprediction.CurrencyAdapter;
+import com.example.cryptopriceprediction.Login;
+import com.example.cryptopriceprediction.R;
 import com.google.firebase.auth.FirebaseAuth;
 import com.special.ResideMenu.ResideMenu;
 import com.special.ResideMenu.ResideMenuItem;
